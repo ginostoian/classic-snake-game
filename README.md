@@ -1,2 +1,4 @@
-# classic-snake-game
-Classic Snake game implementation with Javascript
+# Snake - Vanilla Javascript
+Classic Snake game implementation with HTML, CSS and pure vanilla Javascript
+
+
